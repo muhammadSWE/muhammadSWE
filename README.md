@@ -37,7 +37,6 @@ I am a Passionate Backend Developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
 </div>
-</div>
 
 
 
