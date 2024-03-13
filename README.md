@@ -13,12 +13,12 @@
 
 ----
 
-### About Me :
+## About Me :
 I am a Passionate Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Cairo, Egypt`.
 - As a budding backend developer, I am driven by my fascination for building robust solutions. Armed with a solid foundation in programming languages like C, C#, Python and Java, I am eager to tackle challenges and create efficient applications. My commitment to continuous learning, coupled with my passion for optimizing backend processes, makes me a valuable asset to any development team. I am excited to leverage my skills to contribute effectively and innovate within the realm of Software Engineering.
 
 ---
-### :hammer_and_wrench: My Stack :
+## My Stack :
 <div id="stack" align="center">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -41,6 +41,6 @@ I am a Passionate Backend Developer <img src="https://media.giphy.com/media/WUlp
 
 
 ---
-### My Stats :
+## My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadswe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadswe&theme=hacker&background=000000)](https://git.io/streak-stats)
