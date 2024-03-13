@@ -13,7 +13,7 @@
 ----
 
 ### About Me :
-I am a Passionate Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Cairo, Egypt`.
+- I am a Passionate Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Cairo, Egypt`.
 - As a budding backend developer, I am driven by my fascination for building robust solutions. Armed with a solid foundation in programming languages like C, C#, Python and Java, I am eager to tackle challenges and create efficient applications. My commitment to continuous learning, coupled with my passion for optimizing backend processes, makes me a valuable asset to any development team. I am excited to leverage my skills to contribute effectively and innovate within the realm of Software Engineering.
 
 ---
